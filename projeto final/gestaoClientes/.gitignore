@@ -1,5 +1,2 @@
-*.idea
-*.sqlite3
-*psy
-.DS_Store
-media
+.idea
+.sqlite3
